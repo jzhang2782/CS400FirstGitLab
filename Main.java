@@ -1,3 +1,7 @@
+// == CS400 Spring 2024 File Header Information ==
+// Name: Jingrui Zhang
+// Email: jzhang2782@wisc.edu
+// CS account username: jingrui
 /*
  * Test the use of the Color method
  */
